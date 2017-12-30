@@ -28,7 +28,8 @@ How did you test your project to verify that it works?
 4) Run mongo terminal or mongoui to check existence of the following collections:
 - **customerData**;
 - **customerAddressData**;
-- **mergedDataCollection**;
+- **mergedDataCollection**.
+
 if everything is alright then **mergedDataCollection** contains merged data from two collections.
 ------------------------------------------------------------------------------
 # Question №3:
